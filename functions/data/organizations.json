@@ -26,7 +26,7 @@
   "uw": {
     "id": "uw",
     "name": "University of Washington",
-    "contactName": "perms test api",
+    "contactName": "auth test api",
     "phoneNumber": "+1 (555) 123-4567",
     "emailAddress": "rithelp@uw.edu",
     "ssoProviderId": ""
