@@ -26,9 +26,9 @@
   "uw": {
     "id": "uw",
     "name": "University of Washington",
-    "contactName": "Someone from UW",
+    "contactName": "testing",
     "phoneNumber": "+1 (555) 123-4567",
-    "emailAddress": "engagehf@uw.edu",
+    "emailAddress": "rithelp@uw.edu",
     "ssoProviderId": ""
   }
 }
