@@ -26,7 +26,7 @@
   "uw": {
     "id": "uw",
     "name": "University of Washington",
-    "contactName": "enable",
+    "contactName": "testbuild",
     "phoneNumber": "+1 (555) 123-4567",
     "emailAddress": "rithelp@uw.edu",
     "ssoProviderId": ""
