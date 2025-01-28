@@ -18,7 +18,7 @@ import {
 } from 'firebase-functions/v2/https'
 import { z } from 'zod'
 
-export const serviceAccount = `cloudfunctionsserviceaccount@${process.env.GCLOUD_PROJECT}.iam.gserviceaccount.com`
+export const serviceAccount = `firebase-adminsdk-fbsvc@${process.env.GCLOUD_PROJECT}.iam.gserviceaccount.com`
 
 export function validatedOnCall<Schema extends z.ZodTypeAny, Return>(
   name: string,
